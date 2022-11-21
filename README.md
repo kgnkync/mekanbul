@@ -7,5 +7,5 @@
 ![Mekanın ID İle Mekan Bilgilerini Getir](./resimler/mekan_getir.png)
 
 3. [Bir Mekana Ait Belirli Bir Yorumu Getir](https://mekanbul-1.kgnkync.repl.co/api/mekanlar/63755022be6ddf4632996f29/yorumlar/637a3d2eefdd1ca59054ca13)
-![Bir Mekana Ait Belirli Bir Yorumu Getir](./resimler/yorum_getir.png))
+![Bir Mekana Ait Belirli Bir Yorumu Getir](./resimler/yorum_getir.png)
 
