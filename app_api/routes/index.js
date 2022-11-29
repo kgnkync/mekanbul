@@ -15,11 +15,11 @@ router
 .post(ctrlMekanlar.mekanEkle);
 
 router
-.route('/mekanlar/:mekanid/yorumlar')
+.route("/mekanlar/:mekanid/yorumlar")
 .post(ctrlYorumlar.yorumEkle);
 
 router
-.route('/mekanlar/:mekanid/yorumlar/:yorumid')
+.route("/mekanlar/:mekanid/yorumlar/:yorumid")
 .get(ctrlYorumlar.yorumGetir)
 .put(ctrlYorumlar.yorumGuncelle)
 .delete(ctrlYorumlar.yorumSil);

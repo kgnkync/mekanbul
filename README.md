@@ -1,3 +1,16 @@
+# MekanBul REST API TESTLERİ
+
+
+### 1. Collection : MekanBul API Testleri
+![1](/resimler/collectiontest.png)
+
+### 2. API Testleri
+![2](/resimler/apitest.png)
+
+
+
+
+
 # MekanBul REST API Adresleri
 1. [Bir Mekana Ait Belirli Bir Yorumu Getir](https://mekanbul-1.kgnkync.repl.co/api/mekanlar/63755022be6ddf4632996f29/yorumlar/637a3d2eefdd1ca59054ca13)
 ![Bir Mekana Ait Belirli Bir Yorumu Getir](./resimler/yorum_getir.png)
