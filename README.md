@@ -1,7 +1,7 @@
 # MekanBul REST API TESTLERİ
 
-[Yakınlardaki Mekanları Listele - Replit Adresi](https://mekanbul-1.kgnkync.repl.co/?enlem=37&boylam=35)
-![Yakınlardaki Mekanları Listele - Replit Adresi](./resimler/replitson2.png)
+[Yakınlardaki Mekanları Listele - Replit Adresi](https://mekanbul-2.kgnkync.repl.co/?enlem=37&boylam=35)
+![Yakınlardaki Mekanları Listele - Replit Adresi](./resimler/replitson3.png)
 
 
 
